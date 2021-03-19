@@ -1,7 +1,5 @@
 # Netflix-Trends-by-Google
 
-![Netflix-Trends-by-Google](Images/netflix.jpg)
-
 
 
 # Netflix Trends by Google
